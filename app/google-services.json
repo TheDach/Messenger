@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963574203736",
+    "project_id": "messenger-ba696",
+    "storage_bucket": "messenger-ba696.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963574203736:android:3aae31ef9246b6cdb2d12d",
+        "android_client_info": {
+          "package_name": "com.thedach.messenger_20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDckgFb_JsqPN1fDiPVpMf1vmGM_eEzSl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
